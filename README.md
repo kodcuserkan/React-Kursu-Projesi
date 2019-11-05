@@ -1,3 +1,10 @@
+Mustafa Murat Coşkun' un React.JS dersinde işlediği çalışanlar projesi app'i dir.
+Local de çalışmaktadır bunun için VS code kullanan arkadaşlar "yarn start" komutunu girdikten sonra
+yeni bir terminal (konsol) sayfası açıp "json-server --watch api/db.json --port 3006" (yada uygun başka port)
+komutunu database i izleyebilmeleri için girmeleri geremektedir.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
